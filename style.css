@@ -1,0 +1,36 @@
+body{
+    background-color: #CDDCED ;
+
+}
+
+h1{
+    text-align: center;
+}
+
+table{
+    border: solid 2px black;
+}
+
+td{
+    border: solid 2px black;
+}
+
+img{
+    width: 180px;
+    border: solid 2px black;
+    display: block;
+    margin: auto;
+}
+
+.szelesseg{
+    width: 200px;
+}
+
+
+.dolt {
+    font-style: italic;
+}
+
+.vastag {
+    font-weight: bold;
+}
